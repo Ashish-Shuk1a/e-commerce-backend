@@ -7,7 +7,6 @@
   * [Installation/Setup](#installation/setup)
   * [Screenshots and Video of Application in Use](#screenshots-and-video)
   * [Technologies](#technologies)
-  * [Questions?](#questions)
 
 
 ## Description
