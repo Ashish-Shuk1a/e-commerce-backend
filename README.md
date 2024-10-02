@@ -1,6 +1,4 @@
-# objectrelationmapping-e-commerce-backend
-Module 13 Challenge Assignment: Object-Relational Mapping (ORM) Challenge: E-commerce Back End
-
+# e-commerce-backend
 
 ## Table of Contents
   * [Description](#description)
@@ -62,8 +60,3 @@ https://clipchamp.com/watch/UeYAN5pfdh6
 * [Sequelize](https://sequelize.org)
 * [Dotenv](https://www.npmjs.com/package/dotenv)
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-  ## Questions?
-  ### Reach me here: 
-   [Reggiejr44](https://github.com/Reggiejr44) 
-  regprince788@gmail.com
